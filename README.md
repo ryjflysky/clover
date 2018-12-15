@@ -18,13 +18,3 @@ Share some hackintosh Clover files.
 ![](http://image.3001.net/images/20180824/15350456315570.png)  
 
 这里只要代理到位，国光测试百分百是可以下载下来的，只要耐心地等待`DownGit`去解析完所有文件即可，下载不下来的小伙伴可以研究下`Git`或者`代理软件`的使用。  
-
-考虑到Github速度慢的问题，这里我再补上国内的`Coding net`的项目地址:  
-[Coding net Clover](https://dev.tencent.com/u/sqlsec/p/Coding_clover/git)  
-
-# 二维码赞助
-@imfht大佬在issue里面反馈了赞助链接的问题~ emmm 受宠若惊 有点小紧张呢 如果觉得本项目帮助到你的话，请随意打赏，我们一起让这个项目更加完善。 
-## 微信赞助
-![](http://image.3001.net/images/20180721/15321448021003.gif)    
-## 支付宝赞助
-![](http://image.3001.net/images/20180721/15321446416364.gif)  
